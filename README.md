@@ -1,5 +1,5 @@
 # hdfs-demo
-This contains a simple application which copies a file into HDFS. It expects HDFS to be running on host = hdfs001.
+This contains a simple test which writes a file into HDFS and reads it back. It expects HDFS to be running on host = hdfs001.
 
 User Permissions
 You will need permission to write to the directory you are using. If you do not have write access, you will see an exception like
